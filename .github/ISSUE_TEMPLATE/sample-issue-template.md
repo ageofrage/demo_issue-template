@@ -2,7 +2,7 @@
 name: sample issue template
 about: test to create issue template
 title: ''
-labels: bug, documentation, duplicate
+labels: bug, documentation, duplicate, good first issue, help wanted
 assignees: ''
 
 ---
